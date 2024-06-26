@@ -31,7 +31,7 @@ charting-app/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/vasanth27s/probz.ai-assignment.git
+   git clone https://https://github.com/harikrishnaalvala/Probz_AI_Assignment
 Navigate to the project directory:
 
 cd probz.ai-assignment
